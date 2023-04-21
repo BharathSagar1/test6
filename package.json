@@ -8,9 +8,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "TEST3",
+  "name": "test6",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "test6.html",
   "author": "Bharath Sagar",
   "license": "ISC",
   "description": ""
